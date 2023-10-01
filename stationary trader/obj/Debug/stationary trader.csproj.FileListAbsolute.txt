@@ -1,0 +1,16 @@
+C:\BIT\dsw_project\stationary trader\stationary trader\bin\Debug\stationary trader.exe.config
+C:\BIT\dsw_project\stationary trader\stationary trader\bin\Debug\stationary trader.exe
+C:\BIT\dsw_project\stationary trader\stationary trader\bin\Debug\stationary trader.pdb
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary trader.csproj.AssemblyReference.cache
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary_trader.Properties.Resources.resources
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary trader.csproj.GenerateResource.cache
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary trader.csproj.CoreCompileInputs.cache
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary trader.exe
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary trader.pdb
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary_trader.loginpage.resources
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary_trader.registerpage.resources
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary_trader.Form3.resources
+C:\BIT\dsw_project\stationary trader\stationary trader\obj\Debug\stationary_trader.UserControl1.resources
+C:\Users\Sinoxolo Jeremiah\source\repos\VarsityTrade\stationary trader\stationary trader\obj\Debug\stationary trader.csproj.AssemblyReference.cache
+C:\Users\Sinoxolo Jeremiah\source\repos\VarsityTrade\stationary trader\stationary trader\obj\Debug\stationary trader.exe
+C:\Users\Sinoxolo Jeremiah\source\repos\VarsityTrade\stationary trader\stationary trader\obj\Debug\stationary trader.pdb
